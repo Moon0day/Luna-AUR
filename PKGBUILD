@@ -16,6 +16,6 @@ build() {
 }
 
 package() {
-  cd "$srcdir/Luna-AUR"
+  cd "$srcdir/lunar"
   install -Dm755 luna "$pkgdir/usr/bin/luna"
 }
