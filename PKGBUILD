@@ -1,21 +1,21 @@
-pkgname=luna
+pkgname=lunar
 pkgver=1.0
 pkgrel=1
-pkgdesc="Luna AUR package - builds all C++ source files"
+pkgdesc=""
 arch=('x86_64')
-url="https://github.com/Moon0day/Luna-AUR"
+url="https://github.com/Moon0day/lunar"
 depends=()
 makedepends=('gcc' 'make')
 source=("git+https://github.com/Moon0day/luna.git")
 md5sums=('SKIP')
 
 build() {
-  cd "$srcdir/Luna-AUR"
+  cd "$srcdir/lunar"
   cpp_files=$(find . -type f -name '*.cpp')
   g++ -std=c++17 $cpp_files -o luna
 }
 
 package() {
   cd "$srcdir/lunar"
-  install -Dm755 luna "$pkgdir/usr/bin/luna"
+  install -Dm755 lunar "$pkgdir/usr/bin/lunar"
 }
