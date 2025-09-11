@@ -9,4 +9,4 @@ pkgbase = lunar
         source = git+https://github.com/Moon0day/Luna-AUR.git
         md5sums = SKIP
 
-pkgname = luna
+pkgname = lunar
