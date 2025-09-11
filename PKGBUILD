@@ -17,5 +17,5 @@ build() {
 
 package() {
   cd "$srcdir/lunar"
-  install -Dm755 lunar "$pkgdir/usr/bin/lunar"
+  install -Dm755 luna "$pkgdir/usr/bin/luna"
 }
