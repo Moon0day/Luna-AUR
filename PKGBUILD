@@ -6,7 +6,7 @@ arch=('x86_64')
 url="https://github.com/Moon0day/lunar"
 depends=()
 makedepends=('gcc' 'make')
-source=("git+https://github.com/Moon0day/luna.git")
+source=("git+https://github.com/Moon0day/lunar.git")
 md5sums=('SKIP')
 
 build() {
