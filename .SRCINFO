@@ -1,4 +1,4 @@
-pkgbase = luna
+pkgbase = lunar
         pkgdesc = Luna AUR package - builds all C++ source files
         pkgver = 1.0
         pkgrel = 1
