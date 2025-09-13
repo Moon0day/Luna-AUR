@@ -1,7 +1,11 @@
 #          Luna
 
-new Cool aur for cybersec im adding more soon at the moment of me writing this im gonna publish it to Aur and i will make a tutorial on how to download it i will fix 
-ive been working on this for some time due to school and etc but i will add more i promise
+New tool fully for cybersecurity
+
+that comes with Discord bots, nmap command runners, sql maps 
+
+im gonna add more options soon but at this moment of time im still making more to it
+
 
 # Steps to download
 heres a one liner
