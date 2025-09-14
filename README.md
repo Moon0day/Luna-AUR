@@ -19,3 +19,9 @@ makepkg -si
 -   [x] fixed/added .SRCINFO
 -   [x] fixed PKGBUILD
 -   [ ] More soon...  
+# Coded in
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
