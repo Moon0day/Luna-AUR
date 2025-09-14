@@ -16,10 +16,6 @@ cd lunar
 makepkg -si
 ```
 #        updates
-```
-so this will not be published on aur until i fix some things but i have fixed:
-.SRCINFO
-i fixed pkgname and base
-and PKGBUILD
-just sum stuff etc so yeah
-```
+-   [x] fixed/added .SRCINFO
+-   [x] fixed PKGBUILD
+-   [ ] More soon...  
