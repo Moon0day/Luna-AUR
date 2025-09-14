@@ -13,7 +13,7 @@ build() {
   cd "$srcdir/lunar"
   mkdir -p "$srcdir/lunar"
   cpp_files=$(find . -type f -name '*.cpp')
-  g++ -std=c++17 $cpp_files -o luna
+  g++ -std=c++17 $cpp_files -o lunar
 }
 
 package() {
